@@ -1,0 +1,12 @@
+h1 {
+	text-align: center;
+	color: #b380ff;
+}
+
+body, html {
+	background-color: #ecc6d9;
+}
+
+#products {
+	font-family: 'Ubuntu', sans-serif;
+}
